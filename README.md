@@ -1,4 +1,4 @@
-# airplaneWingAnalysis
+# Airplane Wing Analysis
 Program to analyse and represent several aerodynamic properties of an airplane.
 
 ## Disclaimer
