@@ -14,7 +14,7 @@ _Stall position is at -0.45 from root._<br>
 _Maximum CL is 1.59._<br>
 _SCL margin at SF=1 is 26.73._<br>
 _Safety factors are: 1.0, 1.1, 1.2._<br>
-&nbsp;&nbsp;_AOAs are 12.46º, 13.82º, 15.18º._<br>
-&nbsp;&nbsp;_CDs are 0.04812, 0.05918, 0.07152._
+&nbsp;&nbsp;&nbsp;&nbsp;_AOAs are 12.46º, 13.82º, 15.18º._<br>
+&nbsp;&nbsp;&nbsp;&nbsp;_CDs are 0.04812, 0.05918, 0.07152._
 
 Also, it gives up to 20+ plots on the wing's behaviour.
